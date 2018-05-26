@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Apr 30 17:01:46 CST 2018
+@default-thirdparty-http\://maven.repos.husor.com/nexus/content/repositories/thirdparty/.lastUpdated=1525078906085
+http\://maven.repos.husor.com/nexus/content/repositories/thirdparty/.error=Could not transfer artifact commons-io\:commons-io\:pom\:2.2 from/to thirdparty (http\://maven.repos.husor.com/nexus/content/repositories/thirdparty)\: Connect to maven.repos.husor.com\:80 [maven.repos.husor.com/10.2.223.8] failed\: Operation timed out (Connection timed out)
+abb03cf93e75a9c6e7e60f6632aa9c3323cdae8d@default-ext-release-local-http\://maven.repos.husor.com/nexus/content/repositories/releases/.lastUpdated=1525078829353
+http\://maven.repos.husor.com/nexus/content/repositories/releases/.error=Could not transfer artifact commons-io\:commons-io\:pom\:2.2 from/to ext-release-local (http\://maven.repos.husor.com/nexus/content/repositories/releases/)\: Connect to maven.repos.husor.com\:80 [maven.repos.husor.com/10.2.223.8] failed\: Operation timed out (Connection timed out)
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1525078906470
